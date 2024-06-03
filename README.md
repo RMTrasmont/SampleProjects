@@ -4,10 +4,13 @@
 <h1 align="center"> Sample Project 1 </h1> <br>
 
 <!-- APP NAME AND IMAGE HERE -->
+
+<!--
 <p align="center">
     <img alt="Street Fighter II" title="APP ANME TITLE" src="<URl for IMAGE>" width="300">
   </a>
 </p>
+-->
 
 <!--
 HOW TO:
@@ -93,10 +96,13 @@ SELF ONLY
 <h1 align="center"> Sample Project 2 </h1> <br>
 
 <!-- APP NAME AND IMAGE HERE -->
+
+<!--
 <p align="center">
     <img alt="BOSS CORE DATA" title="APP ANME TITLE" src="<URL OF IMG/GIF PASTED TO GITHUB>" width="300">
   </a>
 </p>
+-->
 
 <!--
 HOW TO:
