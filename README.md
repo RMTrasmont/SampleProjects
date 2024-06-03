@@ -1,7 +1,7 @@
 
 
 <!-- NAME -->
-<h1 align="center"> SAMPLE PROJECTS </h1> <br>
+<h1 align="center"> Sample Project 1 </h1> <br>
 
 <!-- APP NAME AND IMAGE HERE -->
 <p align="center">
@@ -90,7 +90,7 @@ SELF ONLY
 
 
 <!-- NAME -->
-<h1 align="center"> RMTrasmont </h1> <br>
+<h1 align="center"> Sample Project 2 </h1> <br>
 
 <!-- APP NAME AND IMAGE HERE -->
 <p align="center">
