@@ -127,7 +127,7 @@ HOW TO USE
 
 ## - Introduction
 <!-- SHORT APP INTRO -->
-Rick Ross themed Core data App. Using Core Data to persist tasks. 
+ Themed to do list app. Using Core Data to persist tasks when app goes into the background. App has custom sliding button, pop up views, lists, sounds and swipe gesture effects. 
 
 <!-- ADD IMAGES/GIF FOR INTRO -->
 
