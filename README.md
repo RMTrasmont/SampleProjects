@@ -55,6 +55,7 @@ Classic Street Fighter II app showing a List of Characters with their Info and M
 
 
 
+
 ## - About
 <!-- LIST FEATURES -->
 
@@ -118,9 +119,10 @@ HOW TO USE
 
 <!--TOP INTRO GIF IMAGE -->
 <p align="center">
-<img src="https://github.com/user-attachments/assets/088d92ed-c172-40d3-8dbc-93978efe52e0" alt="WeatherMapIntroGif" width="300" height="600">
+<img src="https://github.com/user-attachments/assets/8da41519-6d1e-49df-9760-53db5e0edd68" alt="WeatherMapIntroGif" width="300" height="600">
 </p>
 
+![WeatherMapIntroGif](https://github.com/user-attachments/assets/8da41519-6d1e-49df-9760-53db5e0edd68)
 
 
 </p>
@@ -161,24 +163,18 @@ App Features
 <!-- ADD IMAGES/GIFS FOR FEATURES -->
     
 <p align="center">
-  <img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/cc7cf7c5-95b7-49a1-a4b5-2b31ed23c763" alt="Ross_1" width="200" height="400">
-    <img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/8ae7eb9d-9bdf-49b1-aca4-1db408b1a48c" alt="Ross_3" width="200" height="400">
-     <img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/8c338440-fd3c-4eac-8b10-9e33f30c0e14" alt="Ross_4" width="200" height="400">
+
     
 </p>
 
 
 <p align="center">
-    <img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/f70ee310-da45-4a85-b8f7-17fadeece46e" alt="Ross_5" width="200" height="400">
-    <img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/7ce4e371-70d6-4320-93dd-123f17f08d04" alt="Ross_6" width="200" height="400">
-    <img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/c9183a92-651b-4a38-9b20-8981df855edd" alt="Ross_7" width="200" height="400">
+    
 </p>
 
 
 <p align="center">
-    <img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/cda4061e-f55b-4198-b08e-f03f4527c750" alt="Ross_9" width="200" height="400">
-    <img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/654bc6e6-7dc8-4aef-aa7c-1a844d573f48" alt="Ross_10" width="200" height="400">
-    <img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/7efcfe7e-0d5b-4d41-a9d4-472df9e1cf01" alt="Ross_11" width="200" height="400">
+    
 </p>
 
 ## - Contributors
@@ -345,24 +341,18 @@ App Features
 <!-- ADD IMAGES/GIFS FOR FEATURES -->
     
 <p align="center">
-  <img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/cc7cf7c5-95b7-49a1-a4b5-2b31ed23c763" alt="Ross_1" width="200" height="400">
-    <img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/8ae7eb9d-9bdf-49b1-aca4-1db408b1a48c" alt="Ross_3" width="200" height="400">
-     <img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/8c338440-fd3c-4eac-8b10-9e33f30c0e14" alt="Ross_4" width="200" height="400">
+  
     
 </p>
 
 
 <p align="center">
-    <img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/f70ee310-da45-4a85-b8f7-17fadeece46e" alt="Ross_5" width="200" height="400">
-    <img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/7ce4e371-70d6-4320-93dd-123f17f08d04" alt="Ross_6" width="200" height="400">
-    <img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/c9183a92-651b-4a38-9b20-8981df855edd" alt="Ross_7" width="200" height="400">
+   
 </p>
 
 
 <p align="center">
-    <img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/cda4061e-f55b-4198-b08e-f03f4527c750" alt="Ross_9" width="200" height="400">
-    <img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/654bc6e6-7dc8-4aef-aa7c-1a844d573f48" alt="Ross_10" width="200" height="400">
-    <img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/7efcfe7e-0d5b-4d41-a9d4-472df9e1cf01" alt="Ross_11" width="200" height="400">
+    
 </p>
 
 ## - Contributors
@@ -417,8 +407,8 @@ HOW TO USE
 <!-- ADD IMAGES/GIF FOR INTRO -->
 
 <p align="center">
-<img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/eff72844-2e7a-44b8-9109-9000dae88d62" alt="RossGifPart1" width="250" height="500">
-<img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/e4ce8c49-80cc-41c4-a21b-d04a739ab08a" alt="RossGifPart2" width="250" height="500">
+
+
 </p>
 
 ## - About
@@ -437,24 +427,18 @@ App Features
 <!-- ADD IMAGES/GIFS FOR FEATURES -->
     
 <p align="center">
-  <img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/cc7cf7c5-95b7-49a1-a4b5-2b31ed23c763" alt="Ross_1" width="200" height="400">
-    <img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/8ae7eb9d-9bdf-49b1-aca4-1db408b1a48c" alt="Ross_3" width="200" height="400">
-     <img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/8c338440-fd3c-4eac-8b10-9e33f30c0e14" alt="Ross_4" width="200" height="400">
+  
     
 </p>
 
 
 <p align="center">
-    <img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/f70ee310-da45-4a85-b8f7-17fadeece46e" alt="Ross_5" width="200" height="400">
-    <img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/7ce4e371-70d6-4320-93dd-123f17f08d04" alt="Ross_6" width="200" height="400">
-    <img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/c9183a92-651b-4a38-9b20-8981df855edd" alt="Ross_7" width="200" height="400">
+    
 </p>
 
 
 <p align="center">
-    <img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/cda4061e-f55b-4198-b08e-f03f4527c750" alt="Ross_9" width="200" height="400">
-    <img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/654bc6e6-7dc8-4aef-aa7c-1a844d573f48" alt="Ross_10" width="200" height="400">
-    <img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/7efcfe7e-0d5b-4d41-a9d4-472df9e1cf01" alt="Ross_11" width="200" height="400">
+    
 </p>
 
 ## - Contributors
