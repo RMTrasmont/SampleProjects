@@ -118,10 +118,11 @@ HOW TO USE
 
 <!--TOP INTRO GIF IMAGE -->
 <p align="center">
-<img src="https://github.com/user-attachments/assets/ba2878c1-3f7d-4394-afa5-ccc392cb97ad" alt="WeatherMapIntroGif" width="300" height="600">
+<img src="https://github.com/user-attachments/assets/088d92ed-c172-40d3-8dbc-93978efe52e0" alt="WeatherMapIntroGif" width="300" height="600">
 </p>
 
 
+![WeatherMapIntro](https://github.com/user-attachments/assets/088d92ed-c172-40d3-8dbc-93978efe52e0)
 
 
 
