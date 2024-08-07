@@ -118,8 +118,13 @@ HOW TO USE
 
 <!--TOP INTRO GIF IMAGE -->
 <p align="center">
-<img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/ccab9b78-c8cb-4856-9b5f-fd27f51ace87" alt="SF2IntroGif" width="300" height="600">
+<img src="https://github.com/user-attachments/assets/ba2878c1-3f7d-4394-afa5-ccc392cb97ad" alt="WeatherMapIntroGif" width="300" height="600">
 </p>
+
+
+
+
+
 
 
 </p>
