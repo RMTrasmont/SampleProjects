@@ -118,15 +118,12 @@ HOW TO USE
 
 <!--TOP INTRO GIF IMAGE -->
 <p align="center">
-<img src="https://github.com/user-attachments/assets/cfef9d3b-6886-4ecd-90e8-4a0ff7af4f85" width="300" height="600">
+<img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/ccab9b78-c8cb-4856-9b5f-fd27f51ace87" alt="SF2IntroGif" width="300" height="600">
 </p>
 
 
-https://github.com/user-attachments/assets/cfef9d3b-6886-4ecd-90e8-4a0ff7af4f85
-
-
-
 </p>
+
 
 ## - Table of Contents
 
