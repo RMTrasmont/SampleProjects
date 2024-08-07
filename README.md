@@ -122,11 +122,6 @@ HOW TO USE
 </p>
 
 
-![WeatherMapIntro](https://github.com/user-attachments/assets/088d92ed-c172-40d3-8dbc-93978efe52e0)
-
-
-
-
 
 </p>
 
