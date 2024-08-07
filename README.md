@@ -122,8 +122,6 @@ HOW TO USE
 <img src="https://github.com/user-attachments/assets/8da41519-6d1e-49df-9760-53db5e0edd68" alt="WeatherMapIntroGif" width="300" height="600">
 </p>
 
-![WeatherMapIntroGif](https://github.com/user-attachments/assets/8da41519-6d1e-49df-9760-53db5e0edd68)
-
 
 </p>
 
@@ -138,13 +136,19 @@ HOW TO USE
 
 ## - Introduction
 <!-- SHORT APP INTRO -->
- Themed to do list app. Using Core Data to persist tasks when app goes into the background. App has custom sliding button, pop up views, lists, sounds and swipe gesture effects. 
+ Global Weather and Map. Using the Open weather API to fetch weather data from server for cities around the world. Using the Map kit to view the target city. Allows user to fetche detailed weather data as well as explore the city. Allows Zoom in 2D and 3D for city exploration. Search of city map, for hotels, restaurants and various points of interests etc....  
 
 <!-- ADD IMAGES/GIF FOR INTRO -->
+![InitialSearchGif](https://github.com/user-attachments/assets/8d0ebce0-0931-4b6b-a04a-0e6612186d85) 
+![MapExplore](https://github.com/user-attachments/assets/0c74633d-9bfc-4083-875c-4cb4a811f4f8)
+![DetailView](https://github.com/user-attachments/assets/76eb534d-926d-4b33-99be-f482f53538ca)
+
+
 
 <p align="center">
-<img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/eff72844-2e7a-44b8-9109-9000dae88d62" alt="RossGifPart1" width="250" height="500">
-<img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/e4ce8c49-80cc-41c4-a21b-d04a739ab08a" alt="RossGifPart2" width="250" height="500">
+<img src="https://github.com/user-attachments/assets/8d0ebce0-0931-4b6b-a04a-0e6612186d85" alt="InitialSearchGif" width="200" height="400">
+<img src="https://github.com/user-attachments/assets/0c74633d-9bfc-4083-875c-4cb4a811f4f8" alt="MapExplore" width="200" height="400">
+<img src="https://github.com/user-attachments/assets/76eb534d-926d-4b33-99be-f482f53538ca" alt="DetailView" width="200" height="400">
 </p>
 
 ## - About
