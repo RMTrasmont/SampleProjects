@@ -108,11 +108,11 @@ App Features
 <div align="center">
       MOVES LIST
 </div> 
+
 <!-- GIF SOURCE MOVES
 ![sfMoves1](https://github.com/user-attachments/assets/f50e4b75-42de-4bf5-b397-a137d4ab54c6)
 ![sfMoves2](https://github.com/user-attachments/assets/81afe401-d704-4cf4-9ee9-c8a56870f379)
 ![sfMoves3](https://github.com/user-attachments/assets/f6954d1a-7c2c-4365-a500-689ef58d8e9f)
-
 -->
 
 <p align="center">
