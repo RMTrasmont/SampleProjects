@@ -48,7 +48,9 @@ Classic Street Fighter II app showing a List of Characters with their Info and M
 
 <!-- ADD IMAGES FOR INTRO -->
 <p align="center">
-<img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/41a12b41-82cb-4bfb-a858-74f5c3371ef7" alt="SF2ListGif" width="250" height="500">
+<img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/41a12b41-82cb-4bfb-a858-74f5c3371ef7" alt="SF2ListGif" width="200" height="400">
+    <img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/5115c73a-a1a3-46e8-bfbc-3da78707eec1" alt="SF2InfoGif" width="200" height="400">
+        <img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/c44db048-94f8-4432-8598-4d188ccdc54a" alt="SF2MovesGif" width="200" height="400">
 </p>
 
 <p align="center">
@@ -73,16 +75,56 @@ App Features
 
 <!-- ADD IMAGES/GIFS FOR FEATURES -->
 
-    
+<div align="center">
+  INTRO & FIGHTER LIST
+</div> 
+<!-- GIF SOURCE INTRO
+![sfintro1](https://github.com/user-attachments/assets/725d6ea5-34ff-45f5-8d67-d729b6018d4e)
+![sfIntro2](https://github.com/user-attachments/assets/7135701f-627a-4f05-90e2-3494260f140e)
+![sfIntro3](https://github.com/user-attachments/assets/cb6be351-f584-452b-9a42-289d42f49f6b)
+-->
 <p align="center">
-  <img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/5115c73a-a1a3-46e8-bfbc-3da78707eec1" alt="SF2InfoGif" width="200" height="400">
-    <img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/c44db048-94f8-4432-8598-4d188ccdc54a" alt="SF2MovesGif" width="200" height="400">
-    <img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/67d26f17-88d4-41f4-b6c8-2fc49c3846b4" alt="SF2MoreMoves" width="200" height="400">
-     <img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/865116ac-b0e8-45c9-8f29-ae9b777531ca" alt="SF2MoreInfo" width="200" height="400">
-    
+     <img src="https://github.com/user-attachments/assets/725d6ea5-34ff-45f5-8d67-d729b6018d4e" alt="sfintro1" width="200" height="400">
+        <img src="https://github.com/user-attachments/assets/7135701f-627a-4f05-90e2-3494260f140e" alt="sfIntro2" width="200" height="400">
+         <img src="https://github.com/user-attachments/assets/cb6be351-f584-452b-9a42-289d42f49f6b" alt="sfIntro3" width="200" height="400">
 </p>
 
 
+<div align="center">
+      FIGHTER INFO
+</div> 
+<!-- GIF SOURCE INFO
+![sfInfo1](https://github.com/user-attachments/assets/1952e4cb-7918-47e4-959f-b48a0c8d92e5)
+![sfInfo2](https://github.com/user-attachments/assets/9fc3d279-30ed-4851-8b67-69bb8ef8941d)
+![sfInfo3](https://github.com/user-attachments/assets/631bf30b-89a4-42d4-b83a-84dc3cccc881)
+-->
+
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/1952e4cb-7918-47e4-959f-b48a0c8d92e5" alt="sfInfo1" width="200" height="400">
+        <img src="https://github.com/user-attachments/assets/9fc3d279-30ed-4851-8b67-69bb8ef8941d" alt="sfInfo2" width="200" height="400">
+             <img src="https://github.com/user-attachments/assets/631bf30b-89a4-42d4-b83a-84dc3cccc881" alt="sfInfo3" width="200" height="400">
+</p>
+
+<div align="center">
+      MOVES LIST
+</div> 
+<!-- GIF SOURCE MOVES
+![sfMoves1](https://github.com/user-attachments/assets/f50e4b75-42de-4bf5-b397-a137d4ab54c6)
+![sfMoves2](https://github.com/user-attachments/assets/81afe401-d704-4cf4-9ee9-c8a56870f379)
+![sfMoves3](https://github.com/user-attachments/assets/f6954d1a-7c2c-4365-a500-689ef58d8e9f)
+
+-->
+
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/f50e4b75-42de-4bf5-b397-a137d4ab54c6" alt="sfMoves1" width="200" height="400">
+        <img src="https://github.com/user-attachments/assets/81afe401-d704-4cf4-9ee9-c8a56870f379" alt="sfMoves2" width="200" height="400">
+             <img src="https://github.com/user-attachments/assets/f6954d1a-7c2c-4365-a500-689ef58d8e9f" alt="sfMoves3" width="200" height="400">
+</p>
+
+
+<div align="center">
+  CUTTING & PROCESSING EACH IMAGE
+</div>  
 <p align="center">
   <img src = "https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/52108527-d30a-49f2-89e3-beb53863aed6" >
      <img src = "https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/7720b78f-8106-432c-ae0b-8485504e7822" width="300" height="300" > 
