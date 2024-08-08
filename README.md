@@ -165,6 +165,17 @@ App Features
 ![Search1](https://github.com/user-attachments/assets/d87a6eff-4b52-4eb3-a690-173638054259)
 ![Search2](https://github.com/user-attachments/assets/5d3f14b1-8bf8-4e81-b4c8-191649154d83)
 ![Search3](https://github.com/user-attachments/assets/69a5e158-8bf0-488b-8d55-954bdec06913)
+
+![Explore1](https://github.com/user-attachments/assets/81754f35-14bb-43ab-9fa3-0ef545ec9f23)
+![Explore2](https://github.com/user-attachments/assets/b8c3283c-c1d3-4630-b983-7ab18bd09133)
+![Explore3](https://github.com/user-attachments/assets/208690fb-09b9-4be1-96dd-b2dd463d7f6d)
+
+![Detail1](https://github.com/user-attachments/assets/37784486-5a01-4155-9e86-8cfbbda19ab4)
+![Detail2](https://github.com/user-attachments/assets/570bab68-018c-4f89-90d5-435c7db8f483)
+![Detail3](https://github.com/user-attachments/assets/51ae5b36-a570-4023-92b7-050628ca21c7)
+
+
+
 -->
 
 
@@ -173,20 +184,32 @@ App Features
 </div>    
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/d87a6eff-4b52-4eb3-a690-173638054259" alt="Search1" width="200" height="400">
-    <img src="https://github.com/user-attachments/assets/5d3f14b1-8bf8-4e81-b4c8-191649154d83" alt="Search2" width="200" height="400">
-     <img src="https://github.com/user-attachments/assets/69a5e158-8bf0-488b-8d55-954bdec06913" alt="Search3" width="200" height="400">
+    <img src="https://github.com/user-attachments/assets/d87a6eff-4b52-4eb3-a690-173638054259" alt="Search1" width="200" height="400">
+        <img src="https://github.com/user-attachments/assets/5d3f14b1-8bf8-4e81-b4c8-191649154d83" alt="Search2" width="200" height="400">
+         <img src="https://github.com/user-attachments/assets/69a5e158-8bf0-488b-8d55-954bdec06913" alt="Search3" width="200" height="400">
     
 </p>
 
+<div align="center">
+  EXPLORE MAP
+</div> 
 
 <p align="center">
-    
+     <img src="https://github.com/user-attachments/assets/81754f35-14bb-43ab-9fa3-0ef545ec9f23" alt="Explore1" width="200" height="400">
+        <img src="https://github.com/user-attachments/assets/b8c3283c-c1d3-4630-b983-7ab18bd09133" alt="Explore2" width="200" height="400">
+         <img src="https://github.com/user-attachments/assets/208690fb-09b9-4be1-96dd-b2dd463d7f6d" alt="Explore3" width="200" height="400">   
+
 </p>
 
 
+<div align="center">
+  WEATHER DETAIL
+</div> 
+
 <p align="center">
-    
+     <img src="https://github.com/user-attachments/assets/37784486-5a01-4155-9e86-8cfbbda19ab4" alt="Detail1" width="200" height="400">
+        <img src="https://github.com/user-attachments/assets/570bab68-018c-4f89-90d5-435c7db8f483" alt="Detail2" width="200" height="400">
+         <img src="https://github.com/user-attachments/assets/51ae5b36-a570-4023-92b7-050628ca21c7" alt="Detail3" width="200" height="400">  
 </p>
 
 ## - Contributors
