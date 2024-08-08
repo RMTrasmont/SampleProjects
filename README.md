@@ -19,8 +19,10 @@ PASTE SOURCE
 ![SF2_4](https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/90957ab1-a31a-4078-9743-5a0ac1ec1e44) 
 ![SF2Gif](https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/38882d36-355b-45dd-8c8c-afc2b6b3ee22) 
 
-HOW TO USE
+HOW TO USE (*To Adjust sizes U need bottomw way, otherwise jsut paste as above)
+
 <img src="<SOURCE URL INSDE the QUOTES>" alt="SF2_4" width="300" height="600">
+
 -->
 
 <!--TOP INTRO GIF IMAGE -->
@@ -282,6 +284,11 @@ App Features
 * Core Data
 
 <!-- ADD IMAGES/GIFS FOR FEATURES -->
+
+<div align="center">
+  SWIPE TO ENTER
+</div>    
+
     
 <p align="center">
   <img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/cc7cf7c5-95b7-49a1-a4b5-2b31ed23c763" alt="Ross_1" width="200" height="400">
@@ -290,12 +297,20 @@ App Features
     
 </p>
 
+<div align="center">
+  CREATE & SAVE TO CORE DATA
+</div>    
+
 
 <p align="center">
     <img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/f70ee310-da45-4a85-b8f7-17fadeece46e" alt="Ross_5" width="200" height="400">
     <img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/7ce4e371-70d6-4320-93dd-123f17f08d04" alt="Ross_6" width="200" height="400">
     <img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/c9183a92-651b-4a38-9b20-8981df855edd" alt="Ross_7" width="200" height="400">
 </p>
+
+<div align="center">
+  DELETE & REMOVE FROM COREDATA
+</div>    
 
 
 <p align="center">
@@ -333,9 +348,12 @@ HOW TO USE
 <img src="<SOURCE URL INSDE the QUOTES>" alt="SF2_4" width="300" height="600">
 -->
 
+<!-- IMAGE SOURCE
+![DNNIntrogif](https://github.com/user-attachments/assets/64928b84-a0dd-4fc4-a25e-f3beed6623a1) 
+-->
 <!--TOP INTRO GIF IMAGE -->
 <p align="center">
-<img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/b1007a7f-5c5e-450c-a0fa-c5e601940d3b" alt="RossIntroGif" width="300" height="600">
+<img src="https://github.com/user-attachments/assets/64928b84-a0dd-4fc4-a25e-f3beed6623a1" alt="DNNIntrogif" width="300" height="600">
 </p>
 
 
@@ -351,13 +369,20 @@ HOW TO USE
 
 ## - Introduction
 <!-- SHORT APP INTRO -->
- Themed to do list app. Using Core Data to persist tasks when app goes into the background. App has custom sliding button, pop up views, lists, sounds and swipe gesture effects. 
+Themed News App using the NewsApi Org Server for fetching 100 Specific daily news topic from around the world. 
 
 <!-- ADD IMAGES/GIF FOR INTRO -->
+<!-- IMAGE SOURCE
+![Front](https://github.com/user-attachments/assets/7ac630f0-f449-4b48-aa14-8749af5e7afd)
+![News](https://github.com/user-attachments/assets/4199f122-1db5-4ef9-9418-014f33ddc1d6)
+![Web](https://github.com/user-attachments/assets/c2991708-e97d-4a05-a7f5-444e2c1f999b)
+-->
+
 
 <p align="center">
-<img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/eff72844-2e7a-44b8-9109-9000dae88d62" alt="RossGifPart1" width="250" height="500">
-<img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/e4ce8c49-80cc-41c4-a21b-d04a739ab08a" alt="RossGifPart2" width="250" height="500">
+    <img src="https://github.com/user-attachments/assets/7ac630f0-f449-4b48-aa14-8749af5e7afd" alt="Front" width="250" height="500">
+        <img src="https://github.com/user-attachments/assets/4199f122-1db5-4ef9-9418-014f33ddc1d6" alt="News" width="250" height="500">
+            <img src="https://github.com/user-attachments/assets/c2991708-e97d-4a05-a7f5-444e2c1f999b" alt="Web" width="250" height="500">
 </p>
 
 ## - About
@@ -366,28 +391,42 @@ HOW TO USE
 App Features
 
 * Scroll View
-* Custom Lists
-* Custom Swipe Button
-* Voice Over 
-* Animated Transition
-* Swipe gesture
-* Core Data
+* List View
+* WebView
+* PhaseAnimators 
+* REST API Calls
+* Async Await Calls
 
 <!-- ADD IMAGES/GIFS FOR FEATURES -->
-    
+
+<div align="center">
+     INTRO
+</div> 
+
 <p align="center">
-  
+  <img src="https://github.com/user-attachments/assets/40f04b8a-ceb1-43a4-ad30-0b6e9a4db1c0" alt="intro" width="200" height="400">
     
 </p>
 
+<div align="center">
+     NEWS RESULTS 
+</div> 
 
 <p align="center">
-   
+   <img src="https://github.com/user-attachments/assets/688b2b25-db4a-4dc9-a2d0-53c6022066c6" alt="results1" width="200" height="400">
+    <img src="https://github.com/user-attachments/assets/4ef1ba0f-8027-4739-b919-f8e147c9a786" alt="results2" width="200" height="400">
+    <img src="https://github.com/user-attachments/assets/86832596-32d2-4af2-90c5-371aef3c939e" alt="results3" width="200" height="400">
 </p>
 
+<div align="center">
+    SUMMARY & FULL ARTICLE 
+</div> 
+
 
 <p align="center">
-    
+    <img src="https://github.com/user-attachments/assets/ece5e24d-eae7-42ec-baf6-7037866b388b" alt="web1" width="200" height="400">
+    <img src="https://github.com/user-attachments/assets/f431ca2a-c371-46e7-a778-6cc03689adbe" alt="web2" width="200" height="400">
+    <img src="https://github.com/user-attachments/assets/4eb90727-6fd2-4e4f-9567-199b35321802" alt="web3" width="200" height="400">
 </p>
 
 ## - Contributors
