@@ -83,9 +83,9 @@ App Features
 
 <p align="center">
   <img src = "https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/52108527-d30a-49f2-89e3-beb53863aed6" >
-     <img src = "https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/7720b78f-8106-432c-ae0b-8485504e7822" > 
-     <img src = "https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/d9419895-0c03-449b-bc4f-e3d46a820322" >
-     <img src = "https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/449b1dd7-f729-43de-8e84-0e83e84fa064" >
+     <img src = "https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/7720b78f-8106-432c-ae0b-8485504e7822" width="300" height="300" > 
+     <img src = "https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/d9419895-0c03-449b-bc4f-e3d46a820322" width="300" height="300" >
+     <img src = "https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/449b1dd7-f729-43de-8e84-0e83e84fa064" width="150" height="300" >
 </p>
 
 
@@ -139,11 +139,6 @@ HOW TO USE
  Global Weather and Map. Using the Open weather API to fetch weather data from server for cities around the world. Using the Map kit to view the target city. Allows user to fetche detailed weather data as well as explore the city. Allows Zoom in 2D and 3D for city exploration. Search of city map, for hotels, restaurants and various points of interests etc....  
 
 <!-- ADD IMAGES/GIF FOR INTRO -->
-![InitialSearchGif](https://github.com/user-attachments/assets/8d0ebce0-0931-4b6b-a04a-0e6612186d85) 
-![MapExplore](https://github.com/user-attachments/assets/0c74633d-9bfc-4083-875c-4cb4a811f4f8)
-![DetailView](https://github.com/user-attachments/assets/76eb534d-926d-4b33-99be-f482f53538ca)
-
-
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/8d0ebce0-0931-4b6b-a04a-0e6612186d85" alt="InitialSearchGif" width="200" height="400">
@@ -156,13 +151,14 @@ HOW TO USE
 
 App Features
 
-* Scroll View
-* Custom Lists
-* Custom Swipe Button
-* Voice Over 
-* Animated Transition
-* Swipe gesture
-* Core Data
+* Chart View
+* Scroll Views
+* Map Kit
+* Segment Control
+* API Fetching 
+* Map Search
+* Map Explore
+* Async Web API Calls
 
 <!-- ADD IMAGES/GIFS FOR FEATURES -->
     
