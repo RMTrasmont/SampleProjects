@@ -125,6 +125,7 @@ App Features
 <div align="center">
   CUTTING & PROCESSING EACH IMAGE
 </div>  
+
 <p align="center">
   <img src = "https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/52108527-d30a-49f2-89e3-beb53863aed6" >
      <img src = "https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/7720b78f-8106-432c-ae0b-8485504e7822" width="300" height="300" > 
