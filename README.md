@@ -42,7 +42,7 @@ HOW TO USE
 ## - Introduction
 <!-- SHORT APP INTRO -->
 
-Classic Street Fighter II app showing a List of Characters with their Info and Move Sets. The Animations are Not Videos nor GIFs. Each individual character has a set of Images that works off a timer giving the impression of movement to the user. Hundreds of images were individually selected, cut, background removed,cleaned up, resized and combined in one background to perform the "aimation". 
+Classic Street Fighter II app showing a List of Characters with their Info and Move Sets. The Animations are Not Videos nor GIFs. Each individual character has a set of Images that works off a timer giving the impression of movement to the user. Hundreds of images were individually selected, cut, background removed,cleaned up, resized and combined in one background to perform the "animation". 
 
 <!-- ADD IMAGES FOR INTRO -->
 <p align="center">
@@ -154,16 +154,28 @@ App Features
 * Chart View
 * Scroll Views
 * Map Kit
-* Segment Control
+* Location Details
 * API Fetching 
 * Map Search
 * Map Explore
 * Async Web API Calls
 
 <!-- ADD IMAGES/GIFS FOR FEATURES -->
-    
-<p align="center">
+<!--
+![Search1](https://github.com/user-attachments/assets/d87a6eff-4b52-4eb3-a690-173638054259)
+![Search2](https://github.com/user-attachments/assets/5d3f14b1-8bf8-4e81-b4c8-191649154d83)
+![Search3](https://github.com/user-attachments/assets/69a5e158-8bf0-488b-8d55-954bdec06913)
+-->
 
+
+<div align="center">
+  CITY SEARCH
+</div>    
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/d87a6eff-4b52-4eb3-a690-173638054259" alt="Search1" width="200" height="400">
+    <img src="https://github.com/user-attachments/assets/5d3f14b1-8bf8-4e81-b4c8-191649154d83" alt="Search2" width="200" height="400">
+     <img src="https://github.com/user-attachments/assets/69a5e158-8bf0-488b-8d55-954bdec06913" alt="Search3" width="200" height="400">
     
 </p>
 
