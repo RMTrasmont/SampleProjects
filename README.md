@@ -135,7 +135,7 @@ App Features
 
 
 ## - Contributors
-SELF ONLY
+SELF ONLY , W/ NO OUTSIDE DEPENDENCIES
 
 <!-- --------------------------------------------------------- END --------------------------------------------------------- -->
 
@@ -363,7 +363,7 @@ App Features
 </p>
 
 ## - Contributors
-SELF ONLY
+SELF ONLY , W/ NO OUTSIDE DEPENDENCIES
 
 
 <!-- ---------------------------------------------------------END--------------------------------------------------------- -->
