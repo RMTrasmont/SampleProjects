@@ -479,7 +479,7 @@ SELF ONLY
 <!-- ---------------------------------------------------------END--------------------------------------------------------- -->
 
 <!-- NAME EASY QR CODE -->
-<h1 align="center"> Sample Project 5: CODED ROLEX DAYTONW W/ FUNCTIONING CHRONOGRAHP </h1> <br>
+<h1 align="center"> Sample Project 5: Rolex Daytona </h1> <br>
 
 <!-- APP NAME AND IMAGE HERE -->
 
@@ -519,7 +519,7 @@ HOW TO USE
 
 ## - Introduction
 <!-- SHORT APP INTRO -->
-This is an all coded Rolex Daytona With a Functioning Chronograph. The Seconds hand mimics the Rolex Caliber 4130 self-winding movement(480 ticks a minute). It is not using animation modifier. All Text labels are accurate to +/- 1-2 Degrees. All tickmarks are at the exact degree and all of the same amount as the real watch used for reference.   
+This is an all code Rolex Daytona With a Functioning Chronograph. The Seconds hand mimics the Rolex Caliber 4130 self-winding movement(480 ticks a minute). It is not using animation modifier. All Text labels are accurate to +/- 1-2 Degrees. All tickmarks are at the exact degree and all of the same amount as the real watch used for reference.   
 
 <!-- ADD IMAGES/GIF FOR INTRO -->
 
