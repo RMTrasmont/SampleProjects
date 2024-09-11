@@ -537,24 +537,40 @@ App Features
 
 * Custom Shapes
 * Shared Timer
-* Chronograph
+* Working Chronograph
 * No animation
 
 <!-- ADD IMAGES/GIFS FOR FEATURES -->
     
+<div align="center">
+     Enter, Start, Stop, Reset Chrono 
+</div> 
+![EnterStartStopReset](https://github.com/user-attachments/assets/475dbb44-4b80-48d5-8e23-678e2aea5b14)
+
 <p align="center">
-  
+  <img src="https://github.com/user-attachments/assets/475dbb44-4b80-48d5-8e23-678e2aea5b14" alt="EnterStopStartReset" width="200" height="400">
     
 </p>
 
+<div align="center">
+     NEWS RESULTS 
+</div> 
 
 <p align="center">
-    
+   <img src="https://github.com/user-attachments/assets/688b2b25-db4a-4dc9-a2d0-53c6022066c6" alt="results1" width="200" height="400">
+    <img src="https://github.com/user-attachments/assets/4ef1ba0f-8027-4739-b919-f8e147c9a786" alt="results2" width="200" height="400">
+    <img src="https://github.com/user-attachments/assets/86832596-32d2-4af2-90c5-371aef3c939e" alt="results3" width="200" height="400">
 </p>
 
+<div align="center">
+    SUMMARY & FULL ARTICLE 
+</div> 
+
 
 <p align="center">
-    
+    <img src="https://github.com/user-attachments/assets/ece5e24d-eae7-42ec-baf6-7037866b388b" alt="web1" width="200" height="400">
+    <img src="https://github.com/user-attachments/assets/f431ca2a-c371-46e7-a778-6cc03689adbe" alt="web2" width="200" height="400">
+    <img src="https://github.com/user-attachments/assets/4eb90727-6fd2-4e4f-9567-199b35321802" alt="web3" width="200" height="400">
 </p>
 
 ## - Contributors
