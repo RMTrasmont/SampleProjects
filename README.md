@@ -521,7 +521,7 @@ HOW TO USE
 
 ## - Introduction
 <!-- SHORT APP INTRO -->
-This is an all code Rolex Daytona With a Functioning Chronograph. The Seconds hand mimics the Rolex Caliber 4130 self-winding movement(480 ticks a minute). It is not using animation modifier. All Text labels are accurate to +/- 1-2 Degrees. All tickmarks are at the exact degree and all of the same amount as the real watch used for reference.   
+This is an all code Rolex Daytona With a Functioning Chronograph. The Seconds hand mimics the Rolex Caliber 4130 self-winding movement(480 ticks a minute). It is not using animation modifier. All Text labels are accurate to +/- 1-2 Degrees. All tickmarks are at the exact degree and all of the same amount as the real watch used for reference. All hands work off of one central timer. There are no multiple timers as it would slow everything down and cause a desynchronization of the hand movements.    
 
 <!-- ADD IMAGES/GIF FOR INTRO -->
 
@@ -554,12 +554,6 @@ App Features
 <div align="center">
     CODED FACES
 </div> 
-![Screenshot 2024-09-10 at 7 34 47 PM](https://github.com/user-attachments/assets/914d7954-f084-4cc0-989a-a62b788d8129)
-![Screenshot 2024-09-10 at 7 34 28 PM](https://github.com/user-attachments/assets/32728b08-a346-4ff3-a095-8c55aba4e44d)
-![Screenshot 2024-09-10 at 8 47 06 PM](https://github.com/user-attachments/assets/2a973f2a-70c9-4762-af3e-88af5b00ba2a)
-
-
-
 
 <p align="center">
    <img src="https://github.com/user-attachments/assets/914d7954-f084-4cc0-989a-a62b788d8129" alt="face1" width="200" height="400">
@@ -568,14 +562,13 @@ App Features
 </p>
 
 <div align="center">
-    SUMMARY & FULL ARTICLE 
+  HANDS & SUBVIEWS
 </div> 
 
-
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/ece5e24d-eae7-42ec-baf6-7037866b388b" alt="web1" width="200" height="400">
-    <img src="https://github.com/user-attachments/assets/f431ca2a-c371-46e7-a778-6cc03689adbe" alt="web2" width="200" height="400">
-    <img src="https://github.com/user-attachments/assets/4eb90727-6fd2-4e4f-9567-199b35321802" alt="web3" width="200" height="400">
+    <img src="https://github.com/user-attachments/assets/b5020827-39f2-4e67-bc56-2a7cc671058a" alt="web1" width="200" height="400">
+    <img src="https://github.com/user-attachments/assets/bb99b9c9-4955-463b-a0ed-c3de4eaf39bc" alt="web2" width="200" height="400">
+    <img src="https://github.com/user-attachments/assets/628178ff-8c30-408f-b296-72d219a89f74" alt="web3" width="200" height="400">
 </p>
 
 ## - Contributors
