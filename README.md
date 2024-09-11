@@ -500,11 +500,12 @@ PASTE SOURCE
 HOW TO USE
 <img src="<SOURCE URL INSDE the QUOTES>" alt="SF2_4" width="300" height="600">
 -->
-<!-- ![intro](https://github.com/user-attachments/assets/5af049cd-71e8-4f7a-af59-838edd14d366) -->
+
+<!--  ![IntroGif](https://github.com/user-attachments/assets/3304f50f-61d2-446d-ab35-314df5ee3570) -->
 
 <!--TOP INTRO GIF IMAGE -->
 <p align="center">
-<img src="https://github.com/user-attachments/assets/5af049cd-71e8-4f7a-af59-838edd14d366" alt="intro" width="300" height="600">
+<img src="https://github.com/user-attachments/assets/3304f50f-61d2-446d-ab35-314df5ee3570" alt="intro" width="300" height="600">
 </p>
 
 
