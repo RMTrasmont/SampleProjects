@@ -479,13 +479,13 @@ SELF ONLY
 <!-- ---------------------------------------------------------END--------------------------------------------------------- -->
 
 <!-- NAME EASY QR CODE -->
-<h1 align="center"> Sample Project 5: EASY QR </h1> <br>
+<h1 align="center"> Sample Project 5: CODED ROLEX DAYTONW W/ FUNCTIONING CHRONOGRAHP </h1> <br>
 
 <!-- APP NAME AND IMAGE HERE -->
 
 <!--
 <p align="center">
-    <img alt="BOSS CORE DATA" title="APP ANME TITLE" src="<URL OF IMG/GIF PASTED TO GITHUB>" width="300">
+    <img alt="ROLAEX DAYTONA" title="APP ANME TITLE" src="<URL OF IMG/GIF PASTED TO GITHUB>" width="300">
   </a>
 </p>
 -->
@@ -501,9 +501,13 @@ HOW TO USE
 <img src="<SOURCE URL INSDE the QUOTES>" alt="SF2_4" width="300" height="600">
 -->
 
+
+https://github.com/user-attachments/assets/416663bd-d13b-4643-9afc-eac98b0c9446
+
+
 <!--TOP INTRO GIF IMAGE -->
 <p align="center">
-<img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/b1007a7f-5c5e-450c-a0fa-c5e601940d3b" alt="RossIntroGif" width="300" height="600">
+<img src="https://github.com/user-attachments/assets/416663bd-d13b-4643-9afc-eac98b0c9446" alt="RolexIntroGif" width="300" height="600">
 </p>
 
 
@@ -519,7 +523,7 @@ HOW TO USE
 
 ## - Introduction
 <!-- SHORT APP INTRO -->
- Themed to do list app. Using Core Data to persist tasks when app goes into the background. App has custom sliding button, pop up views, lists, sounds and swipe gesture effects. 
+This is an all coded Rolex Daytona With a Functioning Chronograph. The Seconds hand mimics the Rolex Caliber 4130 self-winding movement(480 ticks a minute). It is not using animation modifier. All Text labels are accurate to +/- 1-2 Degrees. All tickmarks are at the exact degree and all of the same amount as the real watch used for reference.   
 
 <!-- ADD IMAGES/GIF FOR INTRO -->
 
@@ -533,13 +537,10 @@ HOW TO USE
 
 App Features
 
-* Scroll View
-* Custom Lists
-* Custom Swipe Button
-* Voice Over 
-* Animated Transition
-* Swipe gesture
-* Core Data
+* Custom Shapes
+* Shared Timer
+* Chronograph
+* No animation
 
 <!-- ADD IMAGES/GIFS FOR FEATURES -->
     
