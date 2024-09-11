@@ -135,7 +135,7 @@ App Features
 
 
 ## - Contributors
-SELF ONLY , W/ NO OUTSIDE DEPENDENCIES
+SELF ONLY
 
 <!-- --------------------------------------------------------- END --------------------------------------------------------- -->
 
@@ -363,7 +363,7 @@ App Features
 </p>
 
 ## - Contributors
-SELF ONLY , W/ NO OUTSIDE DEPENDENCIES
+SELF ONLY 
 
 
 <!-- ---------------------------------------------------------END--------------------------------------------------------- -->
@@ -500,10 +500,6 @@ PASTE SOURCE
 HOW TO USE
 <img src="<SOURCE URL INSDE the QUOTES>" alt="SF2_4" width="300" height="600">
 -->
-
-
-https://github.com/user-attachments/assets/416663bd-d13b-4643-9afc-eac98b0c9446
-
 
 <!--TOP INTRO GIF IMAGE -->
 <p align="center">
