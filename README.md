@@ -504,7 +504,7 @@ HOW TO USE
 
 <!--TOP INTRO GIF IMAGE -->
 <p align="center">
-<img src="https://github.com/user-attachments/assets/5af049cd-71e8-4f7a-af59-838edd14d366" alt="RolexIntroGif" width="300" height="600">
+<img src="https://github.com/user-attachments/assets/5af049cd-71e8-4f7a-af59-838edd14d366" alt="intro" width="300" height="600">
 </p>
 
 
