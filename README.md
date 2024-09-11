@@ -545,7 +545,6 @@ App Features
 <div align="center">
      Enter, Start, Stop, Reset Chrono 
 </div> 
-![EnterStartStopReset](https://github.com/user-attachments/assets/475dbb44-4b80-48d5-8e23-678e2aea5b14)
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/475dbb44-4b80-48d5-8e23-678e2aea5b14" alt="EnterStopStartReset" width="200" height="400">
@@ -553,13 +552,19 @@ App Features
 </p>
 
 <div align="center">
-     NEWS RESULTS 
+    CODED FACES
 </div> 
+![Screenshot 2024-09-10 at 7 34 47 PM](https://github.com/user-attachments/assets/914d7954-f084-4cc0-989a-a62b788d8129)
+![Screenshot 2024-09-10 at 7 34 28 PM](https://github.com/user-attachments/assets/32728b08-a346-4ff3-a095-8c55aba4e44d)
+![Screenshot 2024-09-10 at 8 47 06 PM](https://github.com/user-attachments/assets/2a973f2a-70c9-4762-af3e-88af5b00ba2a)
+
+
+
 
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/688b2b25-db4a-4dc9-a2d0-53c6022066c6" alt="results1" width="200" height="400">
-    <img src="https://github.com/user-attachments/assets/4ef1ba0f-8027-4739-b919-f8e147c9a786" alt="results2" width="200" height="400">
-    <img src="https://github.com/user-attachments/assets/86832596-32d2-4af2-90c5-371aef3c939e" alt="results3" width="200" height="400">
+   <img src="https://github.com/user-attachments/assets/914d7954-f084-4cc0-989a-a62b788d8129" alt="face1" width="200" height="400">
+    <img src="https://github.com/user-attachments/assets/32728b08-a346-4ff3-a095-8c55aba4e44d" alt="face2" width="200" height="400">
+    <img src="https://github.com/user-attachments/assets/2a973f2a-70c9-4762-af3e-88af5b00ba2a" alt="face3" width="200" height="400">
 </p>
 
 <div align="center">
