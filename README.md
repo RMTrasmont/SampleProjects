@@ -44,8 +44,8 @@ It combines real-time weather forecasts, natural language outfit suggestions, an
   - Firebase Authentication in action.
   - Secure access to API keys using Secret Manager.
  
-### Proof of Google Firebase/Cloud Integration Logs
-
+### Proof of Google Firebase/Cloud Integration Logs 
+- Click to Expand -
 <p align="center">
   <img src="https://github.com/user-attachments/assets/1499d260-f95a-41c4-b271-68aa9820eaf5" alt="FetchIntro" width="900" height="500"> 
 </p>
