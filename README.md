@@ -1,8 +1,8 @@
 # AI Weather and Outfit App
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/bfb4e4d9-dcf3-432a-8ca9-058cc99e6e92" alt="WeatherOutfit Sample 1" width="200" height="400"> 
-  <img src="https://github.com/user-attachments/assets/d74ed64b-56a6-4f38-a75a-eda5ae428bff" alt="WeatherOutfit Sample 2" width="200" height="400"> 
+<img src="https://github.com/user-attachments/assets/7f54843e-e06c-4f59-a07b-8639393c725c" alt="WeatherOutfit Sample 1" width="200" height="400"> 
+  <img src="https://github.com/user-attachments/assets/d00185fe-88a3-4c03-a381-85473305be26" alt="WeatherOutfit Sample 2" width="200" height="400"> 
 </p>
 
 ### Summary:
@@ -47,7 +47,7 @@ It combines real-time weather forecasts, natural language outfit suggestions, an
 ### Proof of Google Firebase/Cloud Integration Logs
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/c87b6616-ed5d-4a2c-aaf2-cd9f3a8d8b49" alt="FetchIntro" width="900" height="500"> 
+  <img src="https://github.com/user-attachments/assets/1499d260-f95a-41c4-b271-68aa9820eaf5" alt="FetchIntro" width="900" height="500"> 
 </p>
 
 
