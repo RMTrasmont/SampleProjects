@@ -1,4 +1,43 @@
+# AI Weather and Outfit App
 
+### Summary:
+A smart weather-based outfit recommendation app that helps users decide what to wear based on live weather data. Powered by AI, the app personalizes outfit suggestions using the user's **gender**, **age range**, and the **current weather** at their location.  
+It combines real-time weather forecasts, natural language outfit suggestions, and curated fashion images — all running securely on Google Cloud with Firebase Authentication.
+
+### 👨‍💻 Built With:
+- **SwiftUI & Async/Await:** Modern, responsive iOS UI built using SwiftUI and Swift Concurrency.
+- **OpenWeather API:** Retrieves the latest weather for your current location.
+- **OpenAI (ChatGPT API):** AI-generated outfit suggestions tailored to weather, gender, and age.
+- **Pexels API:** Visual display of AI-recommended outfits using royalty-free fashion images.
+- **Firebase Authentication:** Secure, scalable sign-in system for users.
+- **Firebase Secret Manager:** Keeps API keys secure and away from client-side code.
+- **Google Cloud Run:** Backend endpoints deployed on a serverless Google Cloud instance, handling all external API calls.
+- **Firebase Hosting + Logging:** Backend analytics and logs monitored via Firebase Console and Cloud Logs.
+
+---
+
+### 📱 What It Does:
+1. Auto-detects your location and current weather.
+2. Lets you input age range and select gender or use gender-neutral mode.
+3. Generates natural-sounding clothing suggestions using AI.
+4. Shows matching outfit photos from Pexels.
+5. Allows user authentication (sign in/sign up).
+6. Everything runs through a secure backend on Google Cloud.
+
+---
+
+### ✨ Focus Areas:
+- **User-first design:** Built for clarity and fast decisions — see your weather and your outfit instantly.
+- **AI + Weather + Visuals:** Seamlessly combines data, intelligence, and design to solve a real-life daily problem.
+- **Security:** API keys are stored in Firebase Secret Manager and never exposed in the app.
+- **Scalable Cloud Architecture:** All data fetching is offloaded to Google Cloud Run, improving speed and security.
+
+### 🔒 Firebase + Google Cloud Integration Proof:
+- Video and screenshots available in the `/media` folder showing:
+  - Real-time requests logged in Google Cloud Console.
+  - API traffic routed through Cloud Run.
+  - Firebase Authentication in action.
+  - Secure access to API keys using Secret Manager.
 
 <!-- ---------------------------------------------------------END--------------------------------------------------------- -->
 
