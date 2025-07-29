@@ -631,7 +631,7 @@ App Features
 </p>
 
 <div align="center">
-    CODED FACES
+    ALL CODED TICK MARKS and WATCH FACE , NOT POSTED IMAGES!
 </div> 
 
 <p align="center">
@@ -641,7 +641,7 @@ App Features
 </p>
 
 <div align="center">
-  HANDS & SUBVIEWS
+  CODED HANDS & SUBVIEWS
 </div> 
 
 <p align="center">
