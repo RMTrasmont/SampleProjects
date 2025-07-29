@@ -44,11 +44,11 @@ It combines real-time weather forecasts, natural language outfit suggestions, an
   - Firebase Authentication in action.
   - Secure access to API keys using Secret Manager.
  
-### Proof of Google Firebase/Cloud Integration Logs - Real-Time API Requests from iOS App to Google Cloud (Firebase Log Demo)
+### Proof of Google Firebase/Cloud Integration Logs
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/02d66525-325f-4f45-8c7e-5a96dd6ffa3e" alt="FetchIntro" width="900" height="500"> 
-  
+<img src="
+https://github.com/user-attachments/assets/63fc73b8-7b4e-4283-a705-ef592521acf8" alt="FetchIntro" width="900" height="500"> 
 </p>
 
 
