@@ -1,5 +1,10 @@
 # AI Weather and Outfit App
 
+<p align="center">
+<img src="https://github.com/user-attachments/assets/d6d44a2d-ffb6-4451-b37b-9a3bc89f4345" alt="WeatherOutfit Sample 1" width="200" height="400"> 
+  <img src="https://github.com/user-attachments/assets/8552f14d-89fa-43ff-9044-b523f22676a5" alt="WeatherOutfit Sample 2" width="200" height="400"> 
+</p>
+
 ### Summary:
 A smart weather-based outfit recommendation app that helps users decide what to wear based on live weather data. Powered by AI, the app personalizes outfit suggestions using the user's **gender**, **age range**, and the **current weather** at their location.  
 It combines real-time weather forecasts, natural language outfit suggestions, and curated fashion images — all running securely on Google Cloud with Firebase Authentication.
@@ -38,6 +43,14 @@ It combines real-time weather forecasts, natural language outfit suggestions, an
   - API traffic routed through Cloud Run.
   - Firebase Authentication in action.
   - Secure access to API keys using Secret Manager.
+ 
+### Proof of Google Firebase/Cloud Integration Logs - Real-Time API Requests from iOS App to Google Cloud (Firebase Log Demo)
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/02d66525-325f-4f45-8c7e-5a96dd6ffa3e" alt="FetchIntro" width="900" height="500"> 
+  
+</p>
+
 
 <!-- ---------------------------------------------------------END--------------------------------------------------------- -->
 
