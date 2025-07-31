@@ -128,6 +128,9 @@ Fetch.com take home project -- A recipes app that fetches food items from the se
 </p>
 
 
+### - Contributors
+Only Self, Source code can be provided upon request of recruiter or manager
+
 <!-- --------------------------------------------------------------END----------------------------------------------------------------------------------- -->
 
 <!-- NAME STREET FGHTER 2 -->
@@ -238,6 +241,8 @@ The project highlights deep control over frame-by-frame animation, manual asset 
      <img src = "https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/449b1dd7-f729-43de-8e84-0e83e84fa064" width="150" height="300" >
 </p>
 
+### - Contributors
+Only Self, Source code can be provided upon request of recruiter or manager
 
 <!-- --------------------------------------------------------- END --------------------------------------------------------- -->
 
@@ -360,15 +365,119 @@ Supports:
          <img src="https://github.com/user-attachments/assets/51ae5b36-a570-4023-92b7-050628ca21c7" alt="Detail3" width="200" height="400">  
 </p>
 
-## - Contributors
-SELF ONLY
+### - Contributors
+Only Self, Source code can be provided upon request of recruiter or manager
 
 
 <!-- ---------------------------------------------------------END--------------------------------------------------------- -->
 
-<!-- NAME BOSS CORE DATA-->
-<h1 align="center"> Sample Project 3: BOSS CORE DATA </h1> <br>
+<!-- NAME -->
+# Rolex Daytona w/ Chronograph Simulator – Precision-Coded Mechanical Watch UI
 
+<!-- APP NAME AND IMAGE HERE -->
+
+<!--
+<p align="center">
+    <img alt="ROLAEX DAYTONA" title="APP ANME TITLE" src="<URL OF IMG/GIF PASTED TO GITHUB>" width="300">
+  </a>
+</p>
+-->
+
+<!--
+HOW TO:
+
+PASTE SOURCE
+![RossIntroGif](https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/b1007a7f-5c5e-450c-a0fa-c5e601940d3b)
+
+
+HOW TO USE
+<img src="<SOURCE URL INSDE the QUOTES>" alt="SF2_4" width="300" height="600">
+-->
+
+<!--  ![IntroGif](https://github.com/user-attachments/assets/3304f50f-61d2-446d-ab35-314df5ee3570) -->
+
+<!--TOP INTRO GIF IMAGE -->
+<p align="center">
+<img src="https://github.com/user-attachments/assets/3304f50f-61d2-446d-ab35-314df5ee3570" alt="intro" width="300" height="600">
+</p>
+
+
+</p>
+
+### Summary:
+A mathematically accurate, pixel-perfect simulation of the Rolex Daytona chronograph, engineered entirely in SwiftUI — with no image assets. This app replicates the smooth Rolex Caliber 4130 movement using timer-based logic and synchronized tick mechanics that simulate a mechanical chronograph’s behavior with remarkable precision.
+The chronograph second hand advances 480 discrete steps per minute, faithfully mimicking the high-frequency tick rate of the real movement — all powered by a single shared Timer without any animation libraries. Tick marks, labels, and hand positions are drawn *programmatically*, with angle calculations refined to within ±1–2 degrees of their real-world counterparts.
+This project highlights expert-level SwiftUI rendering, geometry, timer synchronization, and math-driven motion control — all rendered entirely in code.
+
+### Built With:
+- SwiftUI: Declarative rendering of all UI components, including the chronograph dial, subdials, and hands.
+- Timer-Based Rotation System: Simulates mechanical hand movement using Timer.publish with exact tick intervals.
+- Programmatic Drawing: Every tick mark, number, and dial layout was drawn with SwiftUI shapes and geometry — no assets or sprites.
+- Math-Driven UI: Circular layout calculations using degrees, trigonometry, and polar coordinate conversions.
+- Synchronized Motion: All watch hands run in perfect sync, using a single timing source for realism and performance.
+- High-Fidelity Simulation: Models a real chronograph’s behavior, including pause, reset, and lap interactions (if implemented).
+
+<!-- ADD IMAGES/GIF FOR INTRO -->
+<p align="center">
+
+</p>
+### What It Does:
+- Accurately simulates:
+    Main chronograph second hand ticking at 480 BPM (beats per minute)
+    Subdials for elapsed minutes/hours (if included)
+- Smooth and continuous rotation using step-based updates
+- Tick marks and dial indicators precisely positioned via trigonometric formulas
+- Entire interface runs without image files or third-party libraries
+- Layout adapts across screen sizes while maintaining mechanical accuracy
+
+### Focus Areas:
+- Mathematical Rendering: All visual elements placed using geometry and trigonometry with high angular precision.
+- Mechanical Fidelity: Mimics the real-world Rolex Daytona movement's tick rate and hand behavior.
+- Code-Only UI: Every pixel and curve rendered natively with SwiftUI views — zero visual assets used.
+- Timer Synchronization: Centralized timing logic drives all hands consistently and efficiently.
+- UI Engineering: Combines timing, geometry, and real-world mechanical reference into a working Swift-based chronograph simulator.
+
+<!-- ADD IMAGES/GIFS FOR FEATURES -->
+    
+<div align="center">
+     Enter, Start, Stop, Reset Chrono 
+</div> 
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/475dbb44-4b80-48d5-8e23-678e2aea5b14" alt="EnterStopStartReset" width="200" height="400">
+    
+</p>
+
+<div align="center">
+    ALL CODED TICK MARKS and WATCH FACE , NOT POSTED IMAGES!
+</div> 
+
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/914d7954-f084-4cc0-989a-a62b788d8129" alt="face1" width="200" height="400">
+    <img src="https://github.com/user-attachments/assets/32728b08-a346-4ff3-a095-8c55aba4e44d" alt="face2" width="200" height="400">
+    <img src="https://github.com/user-attachments/assets/2a973f2a-70c9-4762-af3e-88af5b00ba2a" alt="face3" width="200" height="400">
+</p>
+
+<div align="center">
+  CODED HANDS & SUBVIEWS
+</div> 
+
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/b5020827-39f2-4e67-bc56-2a7cc671058a" alt="web1" width="200" height="400">
+    <img src="https://github.com/user-attachments/assets/bb99b9c9-4955-463b-a0ed-c3de4eaf39bc" alt="web2" width="200" height="400">
+    <img src="https://github.com/user-attachments/assets/628178ff-8c30-408f-b296-72d219a89f74" alt="web3" width="200" height="400">
+</p>
+
+### - Contributors
+Only Self, Source code can be provided upon request of recruiter or manager
+
+
+<!-- ---------------------------------------------------------END--------------------------------------------------------- -->
+
+<!-- --------------------------------------------------------- END --------------------------------------------------------- -->
+
+<!-- NAME BOSS CORE DATA-->
+# Boss - Themed To-Do List – Persistent Task Manager App
 <!-- APP NAME AND IMAGE HERE -->
 
 <!--
@@ -396,18 +505,16 @@ HOW TO USE
 
 
 </p>
+### Summary:
+A sleek, gesture-driven to-do list app built with SwiftUI and Core Data, designed to help users manage tasks effortlessly with smooth interactions and stylish UI. Users can create, complete, and delete tasks — with data stored locally for offline use. The app features custom animations, intuitive swipe gestures, and a bold visual theme to make daily planning feel powerful and efficient.
+This project showcases local data persistence, gesture handling, and a polished SwiftUI interface designed for real-world usability.
 
-## - Table of Contents
-
-- [Introduction](#introduction)
-- [About](#about)
-- [Contributors](#contributors)
-
-
-
-## - Introduction
-<!-- SHORT APP INTRO -->
- Themed to do list app. Using Core Data to persist tasks when app goes into the background. App has custom sliding button, pop up views, lists, sounds and swipe gesture effects. 
+### Built With:
+- SwiftUI: Declarative UI for responsive, modern iOS interfaces.
+- Core Data: Native Apple framework for local storage and data persistence.
+- Gestures: Swipe-to-complete, swipe-to-delete, and tap interactions for task control.
+- Smooth Scroll Views: Optimized list navigation and animations for long task lists.
+- Custom Animations: Transitions and effects to enhance interactivity and UX.
 
 <!-- ADD IMAGES/GIF FOR INTRO -->
 
@@ -416,18 +523,23 @@ HOW TO USE
 <img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/e4ce8c49-80cc-41c4-a21b-d04a739ab08a" alt="RossGifPart2" width="250" height="500">
 </p>
 
-## - About
-<!-- LIST FEATURES -->
+### What It Does:
+Allows users to:
+  - Add new tasks instantly via an input field
+  - Swipe to mark tasks as completed
+  - Swipe to delete tasks from the list
+  - Smooth animated transitions between task states
+All data is stored on-device using Core Data, supporting:
+  - Offline usage
+  - Persistent task history
+  - Fast app performance without cloud sync
 
-App Features
-
-* Scroll View
-* Custom Lists
-* Custom Swipe Button
-* Voice Over 
-* Animated Transition
-* Swipe gesture
-* Core Data
+### Focus Areas:
+- Data Persistence: All tasks are saved locally and survive app restarts using Core Data.
+- User-Centric Design: Clean layout, large tap targets, and accessible UX.
+- Gesture-Driven UI: Designed for fast input and control using common swipe interactions.
+- Thematic Styling: Visually bold and consistent design aesthetic inspired by “boss-mode” productivity.
+- SwiftUI Mastery: Takes full advantage of state-driven views, binding, and animation.
 
 <!-- ADD IMAGES/GIFS FOR FEATURES -->
 
@@ -465,14 +577,14 @@ App Features
     <img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/7efcfe7e-0d5b-4d41-a9d4-472df9e1cf01" alt="Ross_11" width="200" height="400">
 </p>
 
-## - Contributors
-SELF ONLY 
+### - Contributors
+Only Self, Source code can be provided upon request of recruiter or manager
 
 
 <!-- ---------------------------------------------------------END--------------------------------------------------------- -->
 
 <!-- NAME DNN NEWS -->
-<h1 align="center"> Sample Project 4: DNN </h1> <br>
+# DNN - Themed News Reader – Topic-Focused iOS App
 
 <!-- APP NAME AND IMAGE HERE -->
 
@@ -504,18 +616,16 @@ HOW TO USE
 
 
 </p>
+### Summary:
+A clean and focused news-reading app built with SwiftUI, designed to fetch and display the top 100 articles from NewsAPI.org based on a specific topic. The app presents articles in a scrollable, date-ordered list with headlines and brief summaries. Users can tap on any entry to view extended details and open the full article in a WebView — all wrapped in a smooth, intuitive reading experience.
+This project demonstrates strong skills in API integration, async networking, dynamic data presentation, and embedded web content handling in iOS apps.
 
-## - Table of Contents
-
-- [Introduction](#introduction)
-- [About](#about)
-- [Contributors](#contributors)
-
-
-
-## - Introduction
-<!-- SHORT APP INTRO -->
-Themed News App using the NewsApi Org Server for fetching 100 Specific daily news topic from around the world. 
+### Built With:
+- SwiftUI: Lightweight, modern interface for a seamless reading experience.
+- NewsAPI.org: Fetches the latest 100 topic-specific news articles via RESTful API.
+- Async Networking: Swift Concurrency (async/await) for efficient data fetching.
+- WebView Integration: Opens full articles in an in-app browser using SafariViewController.
+- List & Navigation Views: Tap-to-expand interface from summary to full article with dynamic view transitions.
 
 <!-- ADD IMAGES/GIF FOR INTRO -->
 <!-- IMAGE SOURCE
@@ -524,24 +634,29 @@ Themed News App using the NewsApi Org Server for fetching 100 Specific daily new
 ![Web](https://github.com/user-attachments/assets/c2991708-e97d-4a05-a7f5-444e2c1f999b)
 -->
 
-
 <p align="center">
     <img src="https://github.com/user-attachments/assets/7ac630f0-f449-4b48-aa14-8749af5e7afd" alt="Front" width="250" height="500">
         <img src="https://github.com/user-attachments/assets/4199f122-1db5-4ef9-9418-014f33ddc1d6" alt="News" width="250" height="500">
             <img src="https://github.com/user-attachments/assets/c2991708-e97d-4a05-a7f5-444e2c1f999b" alt="Web" width="250" height="500">
 </p>
 
-## - About
-<!-- LIST FEATURES -->
+### What It Does:
+- Automatically fetches top 100 articles on a chosen topic.
+Displays:
+  - Headline
+  - Publication date
+  - A rticle summary or excerpt
+Tapping an article:
+  - Opens a detailed view with extended text
+  - Includes a button to open the full article in a WebView
+Supports light/dark mode and responsive layout scaling
 
-App Features
-
-* Scroll View
-* List View
-* WebView
-* PhaseAnimators 
-* REST API Calls
-* Async Await Calls
+### Focus Areas:
+- Clean UI & UX: Prioritizes readability, simplicity, and minimal distraction.
+- Live News Integration: Demonstrates ability to work with real-world APIs and live content.
+- Efficient Data Handling: Uses async/await for responsive and modern networking.
+- Smooth Navigation: Tap-to-detail transitions built entirely in SwiftUI.
+- Web Integration: Embeds full article access without leaving the app.
 
 <!-- ADD IMAGES/GIFS FOR FEATURES -->
 
@@ -575,110 +690,13 @@ App Features
     <img src="https://github.com/user-attachments/assets/4eb90727-6fd2-4e4f-9567-199b35321802" alt="web3" width="200" height="400">
 </p>
 
-## - Contributors
-SELF ONLY
+### - Contributors
+Only Self, Source code can be provided upon request of recruiter or manager
 
 
 <!-- ---------------------------------------------------------END--------------------------------------------------------- -->
 
-<!-- NAME EASY QR CODE -->
-<h1 align="center"> Sample Project 5: Rolex Daytona </h1> <br>
 
-<!-- APP NAME AND IMAGE HERE -->
-
-<!--
-<p align="center">
-    <img alt="ROLAEX DAYTONA" title="APP ANME TITLE" src="<URL OF IMG/GIF PASTED TO GITHUB>" width="300">
-  </a>
-</p>
--->
-
-<!--
-HOW TO:
-
-PASTE SOURCE
-![RossIntroGif](https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/b1007a7f-5c5e-450c-a0fa-c5e601940d3b)
-
-
-HOW TO USE
-<img src="<SOURCE URL INSDE the QUOTES>" alt="SF2_4" width="300" height="600">
--->
-
-<!--  ![IntroGif](https://github.com/user-attachments/assets/3304f50f-61d2-446d-ab35-314df5ee3570) -->
-
-<!--TOP INTRO GIF IMAGE -->
-<p align="center">
-<img src="https://github.com/user-attachments/assets/3304f50f-61d2-446d-ab35-314df5ee3570" alt="intro" width="300" height="600">
-</p>
-
-
-</p>
-
-## - Table of Contents
-
-- [Introduction](#introduction)
-- [About](#about)
-- [Contributors](#contributors)
-
-
-
-## - Introduction
-<!-- SHORT APP INTRO -->
-This is an all code Rolex Daytona With a Functioning Chronograph. The Seconds hand mimics the Rolex Caliber 4130 self-winding movement(480 ticks a minute). It is not using animation modifier. All Text labels are accurate to +/- 1-2 Degrees. All tickmarks are at the exact degree and all of the same amount as the real watch used for reference. All hands work off of one central timer. There are no multiple timers as it would slow everything down and cause a desynchronization of the hand movements.    
-
-<!-- ADD IMAGES/GIF FOR INTRO -->
-
-<p align="center">
-
-
-</p>
-
-## - About
-<!-- LIST FEATURES -->
-
-App Features
-
-* Custom Shapes
-* Shared Timer
-* Working Chronograph
-* No animation
-
-<!-- ADD IMAGES/GIFS FOR FEATURES -->
-    
-<div align="center">
-     Enter, Start, Stop, Reset Chrono 
-</div> 
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/475dbb44-4b80-48d5-8e23-678e2aea5b14" alt="EnterStopStartReset" width="200" height="400">
-    
-</p>
-
-<div align="center">
-    ALL CODED TICK MARKS and WATCH FACE , NOT POSTED IMAGES!
-</div> 
-
-<p align="center">
-   <img src="https://github.com/user-attachments/assets/914d7954-f084-4cc0-989a-a62b788d8129" alt="face1" width="200" height="400">
-    <img src="https://github.com/user-attachments/assets/32728b08-a346-4ff3-a095-8c55aba4e44d" alt="face2" width="200" height="400">
-    <img src="https://github.com/user-attachments/assets/2a973f2a-70c9-4762-af3e-88af5b00ba2a" alt="face3" width="200" height="400">
-</p>
-
-<div align="center">
-  CODED HANDS & SUBVIEWS
-</div> 
-
-<p align="center">
-    <img src="https://github.com/user-attachments/assets/b5020827-39f2-4e67-bc56-2a7cc671058a" alt="web1" width="200" height="400">
-    <img src="https://github.com/user-attachments/assets/bb99b9c9-4955-463b-a0ed-c3de4eaf39bc" alt="web2" width="200" height="400">
-    <img src="https://github.com/user-attachments/assets/628178ff-8c30-408f-b296-72d219a89f74" alt="web3" width="200" height="400">
-</p>
-
-## - Contributors
-SELF ONLY
-
-
-<!-- ---------------------------------------------------------END--------------------------------------------------------- -->
 
 <!-- ---------------------------------------------------------END--------------------------------------------------------- -->
    
