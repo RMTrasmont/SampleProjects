@@ -9,7 +9,7 @@
 A smart weather-based outfit recommendation app that helps users decide what to wear based on live weather data. Powered by AI, the app personalizes outfit suggestions using the user's **gender**, **age range**, and the **current weather** at their location.  
 It combines real-time weather forecasts, natural language outfit suggestions, and curated fashion images — all running securely on Google Cloud with Firebase Authentication.
 
-### 👨‍💻 Built With:
+### Built With:
 - **SwiftUI & Async/Await:** Modern, responsive iOS UI built using SwiftUI and Swift Concurrency.
 - **OpenWeather API:** Retrieves the latest weather for your current location.
 - **OpenAI (ChatGPT API):** AI-generated outfit suggestions tailored to weather, gender, and age.
@@ -21,7 +21,7 @@ It combines real-time weather forecasts, natural language outfit suggestions, an
 
 ---
 
-### 📱 What It Does:
+### What It Does:
 1. Auto-detects your location and current weather.
 2. Lets you input age range and select gender or use gender-neutral mode.
 3. Generates natural-sounding clothing suggestions using AI.
@@ -31,13 +31,13 @@ It combines real-time weather forecasts, natural language outfit suggestions, an
 
 ---
 
-### ✨ Focus Areas:
+### Focus Areas:
 - **User-first design:** Built for clarity and fast decisions — see your weather and your outfit instantly.
 - **AI + Weather + Visuals:** Seamlessly combines data, intelligence, and design to solve a real-life daily problem.
 - **Security:** API keys are stored in Firebase Secret Manager and never exposed in the app.
 - **Scalable Cloud Architecture:** All data fetching is offloaded to Google Cloud Run, improving speed and security.
 
-### 🔒 Firebase + Google Cloud Integration Proof:
+### Firebase + Google Cloud Integration Proof:
 - Video and screenshots available in the `/media` folder showing:
   - Real-time requests logged in Google Cloud Console.
   - API traffic routed through Cloud Run.
@@ -131,50 +131,25 @@ Fetch.com take home project -- A recipes app that fetches food items from the se
 <!-- --------------------------------------------------------------END----------------------------------------------------------------------------------- -->
 
 <!-- NAME STREET FGHTER 2 -->
-<h1 align="center"> Sample Project 1:  SF2 </h1> <br>
-
-<!-- APP NAME AND IMAGE HERE -->
-
-<!--
-<p align="center">
-    <img alt="Street Fighter II" title="APP ANME TITLE" src="<URl for IMAGE>" width="300">
-  </a>
-</p>
--->
-
-<!--
-HOW TO:
-
-PASTE SOURCE
-![SF2_4](https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/90957ab1-a31a-4078-9743-5a0ac1ec1e44) 
-![SF2Gif](https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/38882d36-355b-45dd-8c8c-afc2b6b3ee22) 
-
-HOW TO USE (*To Adjust sizes U need bottomw way, otherwise jsut paste as above)
-
-<img src="<SOURCE URL INSDE the QUOTES>" alt="SF2_4" width="300" height="600">
-
--->
+# 🎮 Street Fighter II Character Catalog – Manually Animated iOS App
 
 <!--TOP INTRO GIF IMAGE -->
 <p align="center">
 <img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/ccab9b78-c8cb-4856-9b5f-fd27f51ace87" alt="SF2IntroGif" width="300" height="600">
 </p>
 
-
 </p>
 
-## - Table of Contents
+### Summary:
+A retro-themed, manually animated iOS app inspired by Street Fighter II, designed as a scrollable character catalog featuring detailed bios, stats, and special moves. Each fighter is brought to life using 750+ individually cropped and resized animation frames, edited by hand and animated using a custom timer-based system in SwiftUI — no sprite sheets or third-party libraries required.
+The project highlights deep control over frame-by-frame animation, manual asset processing, and precise timing loops — all done within SwiftUI’s modern UI architecture.
 
-- [Introduction](#introduction)
-- [About](#about)
-- [Contributors](#contributors)
-
-
-
-## - Introduction
-<!-- SHORT APP INTRO -->
-
-Classic Street Fighter II app showing a List of Characters with their Info and Move Sets. The Animations are Not Videos nor GIFs. Each individual character has a set of Images that works off a timer giving the impression of movement to the user. Hundreds of images were individually selected, cut, background removed,cleaned up, resized and combined in one background to perform the "animation". 
+### Built With:
+- SwiftUI: A fully native iOS interface using Apple's modern declarative UI framework.
+- Timer-Based Image Animation: Custom animation system using Timer.publish and Image arrays to replicate motion frame-by-frame.
+- Pixlr: Every character’s animation frame was manually processed (cropped/resized) using this online photo editor.
+- Custom Animation Logic: Loops through static image arrays to recreate fighter animations with frame-accurate timing.
+- Local Asset Management: Assets are organized, named, and rendered manually — no use of SpriteKit or animation libraries.
 
 <!-- ADD IMAGES FOR INTRO -->
 <p align="center">
@@ -187,21 +162,21 @@ Classic Street Fighter II app showing a List of Characters with their Info and M
 <img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/9c48a386-faeb-45ff-9ec3-897a59ce1cf9" >
 </p>
 
+### What It Does:
+- Presents a scrollable list of iconic Street Fighter II characters.
+- Each character includes:
+- Name, bio, origin, fighting style
+- Special move list and signature fighting traits
+- Frame-by-frame animation of the idle stance or signature motion
+- All animations are performed using Timer-driven cycling through static frames.
+- Entirely offline — all images and data are locally stored.
 
-
-
-## - About
-<!-- LIST FEATURES -->
-
-App Features
-
-* Scroll View
-* Custom Lists
-* Animated Stances 
-* Animated Move Sets for All Characters
-* Animated Background
-* Hundres of individual images 
-* Theme Music for each Character
+### Focus Areas:
+- Manual Craftsmanship: Every frame was hand-edited and processed to preserve the 16-bit pixel art style.
+- Pure SwiftUI Animation: No SpriteKit, Lottie, or UIKit — just native SwiftUI views and logic.
+- Retro UI Design: Fonts, colors, and layout choices mimic the arcade cabinet experience.
+- Precision Animation Control: Fine-tuned frame timing for authentic retro feel.
+- Organized Asset Management: Structured image arrays and logic that can scale to support other games or characters.
 
 <!-- ADD IMAGES/GIFS FOR FEATURES -->
 
