@@ -239,13 +239,10 @@ The project highlights deep control over frame-by-frame animation, manual asset 
 </p>
 
 
-## - Contributors
-SELF ONLY
-
 <!-- --------------------------------------------------------- END --------------------------------------------------------- -->
 
 <!-- GLOBAL WEATHER & MAP-->
-<h1 align="center"> Sample Project 2: GLOBAL WEATHER & MAP </h1> <br>
+# Interactive Weather & Map Explorer – Location-Based iOS App
 
 <!-- APP NAME AND IMAGE HERE -->
 
@@ -275,18 +272,18 @@ HOW TO USE
 
 </p>
 
+### Summary:
+An interactive weather and map exploration app built with SwiftUI and MapKit, allowing users to view real-time weather based on any city they enter. It integrates live data from the OpenWeather API, and dynamically displays an interactive map with search functionality, zoom controls, and multiple view modes. The app also features point-of-interest search (hotels, restaurants, etc.) with detailed location info including address and contact data.
+This project showcases a blend of custom UI, API-driven data, and map-based interactivity — combining practical utility with a smooth user experience.
 
-## - Table of Contents
-
-- [Introduction](#introduction)
-- [About](#about)
-- [Contributors](#contributors)
-
-
-
-## - Introduction
-<!-- SHORT APP INTRO -->
- Global Weather and Map. Using the Open weather API to fetch weather data from server for cities around the world. Using the Map kit to view the target city. Allows user to fetche detailed weather data as well as explore the city. Allows Zoom in 2D and 3D for city exploration. Search of city map, for hotels, restaurants and various points of interests etc....  
+###  Built With:
+- SwiftUI: Clean and reactive interface for modern iOS UI.
+- OpenWeather API: Retrieves live temperature, humidity, wind, and condition data by city name.
+- MapKit + SwiftUI Integration: Displays city location with satellite, hybrid, and standard map modes.
+- Custom UI Components: Styled weather displays, toggles for map view modes, and result cards.
+- Geocoding & Reverse Geocoding: Converts city names into coordinates and vice versa.
+- Asynchronous Networking: Uses async/await and URLSession for clean API integration.
+- Searchable Map Points: Supports finding hotels, restaurants, and other landmarks with detail popups.
 
 <!-- ADD IMAGES/GIF FOR INTRO -->
 
@@ -296,19 +293,22 @@ HOW TO USE
 <img src="https://github.com/user-attachments/assets/76eb534d-926d-4b33-99be-f482f53538ca" alt="DetailView" width="200" height="400">
 </p>
 
-## - About
-<!-- LIST FEATURES -->
+### What It Does:
+- Users can search any city by name to:
+- View current weather details (condition, temperature, wind, humidity)
+- See the location on an interactive map
+Supports:
+- Zoomable map with pinch gestures
+- Toggle between map types: standard, satellite, hybrid
+- Local POI search (e.g., "restaurant") with marker pins and info cards
+- Updates UI dynamically using SwiftUI’s state system
 
-App Features
-
-* Chart View
-* Scroll Views
-* Map Kit
-* Location Details
-* API Fetching 
-* Map Search
-* Map Explore
-* Async Web API Calls
+### Focus Areas:
+- Real-World API Integration: Weather data fetched via OpenWeather and parsed live.
+- Map-Based Interaction: Combines location-based UI with POI search to enrich user experience.
+- Modern iOS Design: Built from the ground up with SwiftUI and Apple’s best practices.
+- Asynchronous Networking: Uses Swift Concurrency for clean, maintainable data flows.
+- Location Intelligence: Combines geocoding, POI lookup, and map overlays.
 
 <!-- ADD IMAGES/GIFS FOR FEATURES -->
 <!--
@@ -323,8 +323,6 @@ App Features
 ![Detail1](https://github.com/user-attachments/assets/37784486-5a01-4155-9e86-8cfbbda19ab4)
 ![Detail2](https://github.com/user-attachments/assets/570bab68-018c-4f89-90d5-435c7db8f483)
 ![Detail3](https://github.com/user-attachments/assets/51ae5b36-a570-4023-92b7-050628ca21c7)
-
-
 
 -->
 
