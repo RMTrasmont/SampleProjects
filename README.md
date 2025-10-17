@@ -403,12 +403,6 @@ HOW TO USE
 
 
 
-<p align="center">
-<img src="https://www.linkedin.com/posts/activity-7378563752490848256-Zm7J?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEt0QzQBg58fdD3smtewJzZFTd4erhhX5zw" alt="intro" width="300" height="600">
-</p>
-
-</p>
-
 ### Summary:
 A mathematically accurate, pixel-perfect simulation of the Rolex Daytona chronograph, engineered entirely in SwiftUI — with no image assets. This app replicates the smooth Rolex Caliber 4130 movement using timer-based logic and synchronized tick mechanics that simulate a mechanical chronograph’s behavior with remarkable precision.
 The chronograph second hand advances 480 discrete steps per minute, faithfully mimicking the high-frequency tick rate of the real movement — all powered by a single shared Timer without any animation libraries. Tick marks, labels, and hand positions are drawn *programmatically*, with angle calculations refined to within ±1–2 degrees of their real-world counterparts.
