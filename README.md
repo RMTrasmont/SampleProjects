@@ -402,6 +402,11 @@ HOW TO USE
 </p>
 
 
+
+<p align="center">
+<img src="https://www.linkedin.com/posts/activity-7378563752490848256-Zm7J?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEt0QzQBg58fdD3smtewJzZFTd4erhhX5zw" alt="intro" width="300" height="600">
+</p>
+
 </p>
 
 ### Summary:
