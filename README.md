@@ -404,9 +404,11 @@ HOW TO USE
 
 
 ### Summary:
-A mathematically accurate, pixel-perfect simulation of the Rolex Daytona chronograph, engineered entirely in SwiftUI — with no image assets. This app replicates the smooth Rolex Caliber 4130 movement using timer-based logic and synchronized tick mechanics that simulate a mechanical chronograph’s behavior with remarkable precision.
-The chronograph second hand advances 480 discrete steps per minute, faithfully mimicking the high-frequency tick rate of the real movement — all powered by a single shared Timer without any animation libraries. Tick marks, labels, and hand positions are drawn *programmatically*, with angle calculations refined to within ±1–2 degrees of their real-world counterparts.
-This project highlights expert-level SwiftUI rendering, geometry, timer synchronization, and math-driven motion control — all rendered entirely in code.
+A fully code-driven, recise mechanical simulation of the Rolex Daytona Caliber 4130 chronograph, engineered entirely in SwiftUI, with working chronograph that starts, stops and snaps back from timer to watch. — with no image assets, no Core Animation, and no external libraries.
+Every visible element — from the dial markings and hand shadows to the tick marks and sub-dial numerals — is drawn programmatically using geometric and trigonometric calculations. The chronograph system operates from a *SINGLE-Timer, advancing the second hand through 480 discrete micro-steps per minute to authentically replicate the high-beat motion (28,800 vibrations per hour) of the real 4130 movement.
+The chronograph system isn’t static — it fully functions like the real watch, seamlessly entering and exiting chronograph mode and snapping all hands back to zero when reset, just like a genuine mechanical movement.
+The result is a pixel-perfect, mechanically faithful chronograph that achieves centisecond-level accuracy in its timer logic, hand synchronization, and tick cadence.
+This project demonstrates SwiftUI rendering, math-driven motion control, timer coordination, and code-based visual design, photorealistic mechanical simulation can be achieved purely in SwiftUI.
 
 ### Built With:
 - SwiftUI: Declarative rendering of all UI components, including the chronograph dial, subdials, and hands.
