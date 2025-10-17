@@ -398,10 +398,6 @@ HOW TO USE
 
 <!--TOP INTRO GIF IMAGE -->
 <p align="center">
-<img src="https://github.com/user-attachments/assets/3304f50f-61d2-446d-ab35-314df5ee3570" alt="intro" width="300" height="600">
-</p>
-
-<p align="center">
 <img src="https://github.com/user-attachments/assets/247f1fc4-5e50-42c7-96f3-c9da53c45142" alt="intro" width="300" height="600">
 </p>
 
